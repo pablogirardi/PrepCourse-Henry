@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Primer repositorio
+Este proyecto es una prueba de como crear un repo y clonarlo a mi escritorio
